@@ -1,0 +1,17 @@
+CG1
+Python 100
+JS 97
+Java 112
+C++ 110
+
+CG2
+Python 145
+JS 145
+Java 184
+C++ 191
+
+CG3
+Python 145
+JS 180
+Java 206
+C++ 150
